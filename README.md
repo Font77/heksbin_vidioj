@@ -1,5 +1,5 @@
 # heksbin  
-![heksbin](https://media.giphy.com/media/eNY2sAKEmP5IyYwXB6/giphy.gif)
+![heksbin](https://media.giphy.com/media/eNY2sAKEmP5IyYwXB6/giphy.gif)  
 heksbin  hAj vidioj phur heksbin tebAls
 1. [vidio](https://youtu.be/DyVfig8FkBQ)
 2. [kauntifg](https://flic.kr/p/2jqAizL)
